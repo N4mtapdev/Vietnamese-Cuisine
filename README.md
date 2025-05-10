@@ -3,7 +3,7 @@
 
 Chào mừng bạn đến với **Vietnamese Cuisine** – nơi lưu giữ những công thức nấu ăn truyền thống, câu chuyện văn hóa, và hình ảnh tuyệt đẹp về ẩm thực Việt Nam! 🍜🥖🥟 Từ bát phở thơm lừng đến miếng bánh mì giòn tan, tất cả đều ở đây để bạn khám phá và thử sức!
 
-![Phở Bò Hà Nội](https://raw.githubusercontent.com/your-username/Vietnamese-Cuisine/main/Images/pho-bo.jpg)  
+![Phở Bò Hà Nội](https://raw.githubusercontent.com/N4mtapdev/Vietnamese-Cuisine/main/Images/pho-bo.jpg)  
 *Hình ảnh: Một bát phở bò truyền thống với rau thơm*
 
 ## 🌟 Điều gì làm repository này đặc biệt?  
@@ -37,6 +37,6 @@ Yêu ẩm thực Việt Nam? Hãy tham gia cùng chúng tôi!
 Có ý tưởng hoặc muốn trò chuyện về ẩm thực?  
 - 📧 Gửi email: [lamphuongnam004@gmail.com](mailto:lamphuongnam004@gmail.com)  
 - 💬 Thảo luận trên [X](https://x.com/your-username)  
-- 🌐 Ghé thăm [GitHub của chúng tôi](https://github.com/your-username/Vietnamese-Cuisine)  
+- 🌐 Ghé thăm [GitHub của chúng tôi](https://github.com/N4mtapdev/Vietnamese-Cuisine)  
 
 **Hãy cùng nhau lan tỏa hương vị Việt Nam ra thế giới!** 🌏
