@@ -1,21 +1,25 @@
 # Ẩm Thực Việt Nam 🇻🇳  
-**Khám phá kho tàng hương vị quê hương!**  
+**Khám phá kho tàng hương vị quê hương!**
 
-Chào mừng bạn đến với **Vietnamese Cuisine** – nơi lưu giữ những công thức nấu ăn truyền thống, câu chuyện văn hóa, và hình ảnh tuyệt đẹp về ẩm thực Việt Nam! 🍜🥖🥟 Từ bát phở thơm lừng đến miếng bánh mì giòn tan, tất cả đều ở đây để bạn khám phá và thử sức!  
+Chào mừng bạn đến với **Vietnamese Cuisine** – nơi lưu giữ những công thức nấu ăn truyền thống, câu chuyện văn hóa, và hình ảnh tuyệt đẹp về ẩm thực Việt Nam! 🍜🥖🥟 Từ bát phở thơm lừng đến miếng bánh mì giòn tan, tất cả đều ở đây để bạn khám phá và thử sức!
 
-![Phở Bò Hà Nội](Images/pho.jpg)  
+![Phở Bò Hà Nội](https://upload.wikimedia.org/wikipedia/commons/5/53/Pho-2008.jpg)  
+*Hình ảnh: Một bát phở bò truyền thống (Nguồn: Wikimedia Commons, giấy phép CC BY-SA)*
 
 ## 🌟 Điều gì làm repository này đặc biệt?  
 - **Công thức chuẩn vị**: Hướng dẫn chi tiết từng món ăn, từ phở bò, bún chả đến bánh xèo.  
-- **Văn hóa ẩm thực**: Tìm hiểu nguồn gốc và câu chuyện đằng sau mỗi món ăn.  
+- **Văn hóa ẩm thực**: Tìm hiểu nguồn gốc, câu chuyện và giá trị văn hóa đằng sau mỗi món ăn.  
 - **Hình ảnh sống động**: Những bức ảnh món ăn khiến bạn "đói mắt"!  
 - **Cộng đồng mở**: Ai cũng có thể đóng góp công thức hoặc chia sẻ bí kíp nấu ăn!  
 
 ## 🍲 Bạn sẽ tìm thấy gì?  
-- 📖 **Công thức**: [Phở Bò Hà Nội](Recipes/pho-recipe.md) | [Bún Bò Huế](Recipes/bun-bo-hue.md) | [Bánh Mì Sài Gòn](Recipes/banh-mi.md)  
+- 📖 **Công thức**:  
+  - [Phở Bò Hà Nội](Recipes/pho.md)  
+  - [Bún Bò Huế](Recipes/bun-bo-hue.md) *(sắp ra mắt)*  
+  - [Bánh Mì Sài Gòn](Recipes/banh-mi.md) *(sắp ra mắt)*  
 - 🖼️ **Hình ảnh**: Xem bộ sưu tập món ăn tại thư mục [Images](Images/)  
-- 📜 **Lịch sử**: Đọc về [Nguồn gốc Bánh Mì](Culture/banh-mi-history.txt) và hơn thế nữa  
-- 🎥 **Video hướng dẫn**: [Xem cách làm Chả Giò trên YouTube](https://www.youtube.com/watch?v=example)  
+- 📜 **Lịch sử & Văn hóa**: Đọc về [Nguồn gốc Bánh Mì](Culture/banh-mi-history.txt) và hơn thế nữa *(sắp ra mắt)*  
+- 🎥 **Video hướng dẫn**: [Xem cách làm Chả Giò trên YouTube](https://www.youtube.com/watch?v=example) *(sắp cập nhật)*  
 
 ## 🚀 Bắt đầu như thế nào?  
 1. **Khám phá**: Lướt qua các công thức và hình ảnh để tìm cảm hứng.  
