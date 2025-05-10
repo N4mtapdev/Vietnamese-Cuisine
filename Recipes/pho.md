@@ -1,7 +1,7 @@
 # Phở - Món ăn truyền thống của Việt Nam
 
-![Phở bò](https://upload.wikimedia.org/wikipedia/commons/5/53/Pho-2008.jpg)  
-*Hình ảnh: Một bát phở bò truyền thống (Nguồn: Wikimedia Commons, giấy phép CC BY-SA)*
+![Phở Bò](https://raw.githubusercontent.com/your-username/Vietnamese-Cuisine/main/Images/pho-bo.jpg)  
+*Hình ảnh: Một bát phở bò truyền thống với rau thơm*
 
 ## 1. Giới thiệu
 
