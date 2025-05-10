@@ -1,6 +1,6 @@
 # Phở - Món ăn truyền thống của Việt Nam
 
-![Phở Bò](https://raw.githubusercontent.com/your-username/Vietnamese-Cuisine/main/Images/pho-bo.jpg)  
+![Phở Bò](https://raw.githubusercontent.com/N4mtapdev/Vietnamese-Cuisine/main/Images/pho-bo.jpg)  
 *Hình ảnh: Một bát phở bò truyền thống với rau thơm*
 
 ## 1. Giới thiệu
@@ -30,7 +30,7 @@ Phở được ghi nhận sớm nhất trong *Hán-Việt Nhật Dụng Thườn
   - *Việt Nam Tự Điển* (1930) định nghĩa phở là bánh thái nhỏ nấu với thịt bò.  
   - Phở gà xuất hiện năm 1939 do hạn chế giết mổ bò, song hành cùng phở bò.
 
-## 3. Gia trị dinh dưỡng
+## 3. Giá trị dinh dưỡng
 
 Phở là món ăn tổ hợp 18-20 loại thực phẩm (động vật, thực vật), giữ trạng thái nguyên thủy, hài hòa.  
 - **Nước dùng**: Chứa calci, tủy, gân sụn (tốt cho khớp, phát triển cơ thể), gia vị (thảo quả, quế, gừng, nước mắm) cung cấp sắt, kẽm, vitamin B2, B3, B5, bảo vệ mạch máu.  
