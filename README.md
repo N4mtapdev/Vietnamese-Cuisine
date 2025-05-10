@@ -31,7 +31,7 @@ Yêu ẩm thực Việt Nam? Hãy tham gia cùng chúng tôi!
 
 ## 📬 Liên hệ  
 Có ý tưởng hoặc muốn trò chuyện về ẩm thực?  
-- 📧 Gửi email: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 Gửi email: [lamphuongnam004@gmail.com](mailto:lamphuongnam004@gmail.com)  
 - 💬 Thảo luận trên [X](https://x.com/your-username)  
 - 🌐 Ghé thăm [GitHub của chúng tôi](https://github.com/your-username/Vietnamese-Cuisine)  
 
