@@ -18,7 +18,7 @@ Chào mừng bạn đến với **Vietnamese Cuisine** – nơi lưu giữ nhữ
   - [Bún Bò Huế](Recipes/bun-bo-hue.md) *(sắp ra mắt)*  
   - [Bánh Mì Sài Gòn](Recipes/banh-mi.md) *(sắp ra mắt)*  
 - 🖼️ **Hình ảnh**: Xem bộ sưu tập món ăn tại thư mục [Images](Images/)  
-- 📜 **Lịch sử & Văn hóa**: Đọc về [Nguồn gốc Bánh Mì](Culture/banh-mi-history.txt) và hơn thế nữa *(sắp ra mắt)*  
+- 📜 **Lịch sử & Văn hóa**: Đọc về [Nguồn gốc Bánh Mì](Recipes/banh-mi.md) và hơn thế nữa *(sắp ra mắt)*  
 - 🎥 **Video hướng dẫn**: [Xem cách làm Chả Giò trên YouTube](https://www.youtube.com/watch?v=example) *(sắp cập nhật)*  
 
 ## 🚀 Bắt đầu như thế nào?  
