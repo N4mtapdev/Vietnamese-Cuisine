@@ -23,9 +23,9 @@ Phở được ghi nhận sớm nhất trong *Hán-Việt Nhật Dụng Thườn
   - Có thể từ “ngưu nhục phấn” (Quảng Đông).  
   - Kết hợp “pot-au-feu” (Pháp) với gia vị Việt.  
   - Biến tấu từ “xáo trâu” (bún) thành “xáo bò” (bánh cuốn).  
-- **Chữ Nôm**: “Phở” ghép từ “mễ” (gạo), “ngôn” (lời), “phổ” (phổ biến), nghĩa món gạo phổ thông, âm “phổ”.  
+- **Chữ Nôm**: “Phở” ghép từ “mễ” (gạo), “ngôn” (lời), “phổ” (phổ biến), nghĩa là món gạo phổ thông, âm “phổ”.  
 - **Phát triển**:  
-  - Tiếng rao “phố đây, phố ơ” du dương.  
+  - Tiếng rao “phở đây, phở ơ” du dương.  
   - Nguyễn Công Hoan (1913) ghi nhận phở gánh giá 2-5 xu.  
   - *Việt Nam Tự Điển* (1930) định nghĩa phở là bánh thái nhỏ nấu với thịt bò.  
   - Phở gà xuất hiện năm 1939 do hạn chế giết mổ bò, song hành cùng phở bò.
@@ -34,7 +34,7 @@ Phở được ghi nhận sớm nhất trong *Hán-Việt Nhật Dụng Thườn
 
 Phở là món ăn tổ hợp 18-20 loại thực phẩm (động vật, thực vật), giữ trạng thái nguyên thủy, hài hòa.  
 - **Nước dùng**: Chứa calci, tủy, gân sụn (tốt cho khớp, phát triển cơ thể), gia vị (thảo quả, quế, gừng, nước mắm) cung cấp sắt, kẽm, vitamin B2, B3, B5, bảo vệ mạch máu.  
-- **Thịt bò**: Axit amonia, Creatinin, Carnitine, kali (phát triển cơ bắp), 50% chất béo chưa bão hòa, cytocilin, vitamin B12 (điều hòa Cholesterol).  
+- **Thịt bò**: Axit amin, Creatinin, Carnitine, kali (phát triển cơ bắp), 50% chất béo chưa bão hòa, cytocilin, vitamin B12 (điều hòa Cholesterol).  
 - **Bánh phở**: 3 mg đạm, 0.5 mg B1, 1.2 mg B5/bát.  
 - **Lợi ích**: Ngon, dễ tiêu hóa, bổ dưỡng.
 
